@@ -188,4 +188,9 @@
     <string name="menu_search">Search apps</string>
     <string name="menu_search_hint">Search apps\u2026</string>
 
+		<!-- Dashboard condition toggle -->
+		<string name="dashboard_conditions_title">Dashboard conditions</string>
+    <string name="summary_dashboard_conditions_enabled">Dashboard conditions are enabled</string>
+    <string name="summary_dashboard_conditions_disabled">Dashboard conditions are disabled</string>
+
 </resources>
