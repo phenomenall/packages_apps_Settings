@@ -198,4 +198,6 @@
     <string name="summary_dashboard_suggestions_enabled">Dashboard suggestions are enabled</string>
     <string name="summary_dashboard_suggestions_disabled">Dashboard suggestions are disabled</string>
 
+    <string name="loading">Loading</string>
+    
 </resources>
