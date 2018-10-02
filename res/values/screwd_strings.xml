@@ -24,6 +24,9 @@
     <string name="screwd_settings_summary">Chopped Up, Not Slopped Up....</string>
     <string name="screwd_version_title">Screw\'d Version</string>
 
+    <!-- Screwd device maintainer -->
+    <string name="device_maintainer">Maintainer</string>
+
     <!-- [CHAR LIMIT=NONE] Device Info screen. Countdown for user taps to enable development settings -->
     <plurals name="show_dev_countdown_custom">
         <item quantity="one">You are now <xliff:g id="step_count">%1$d</xliff:g> step away from enabling developer options.</item>
